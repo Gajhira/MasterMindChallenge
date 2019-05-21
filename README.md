@@ -1,4 +1,4 @@
-# Getting Started with Minikube
+# MasterMind DevOps Challenge
 
 ## Goals
 
